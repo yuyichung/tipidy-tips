@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * Vim
+   * [Vim](vim.md)
 * [Linux](linux.md)
    * [Time](time.md)
    * [File IO](file_io.md)
