@@ -1,0 +1,2 @@
+- How to comment out blocks of code: substitute the line head symbol '^' with the commend symbol '#' (s/^/#/g). Uncomment by substituting '^#' with '^'.
+- 
