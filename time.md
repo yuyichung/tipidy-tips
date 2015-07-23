@@ -1,0 +1,2 @@
+- The date command can return time offsets based on the current time. Offsets are determined by human language option strings. Examples: date --date="2 days ago", date --date="4 hours ago", date --date="next Thursday"
+- 
