@@ -1,0 +1,6 @@
+- The history command allows you to browse a list of commands made by a user
+- The useradd command creates a new user, but the -p command accepts encrypted passwords only
+- The userdel command deletes a user
+- The passwd command sets a new password for a user
+- The /etc/passwd command lists all users registered in the system, the /etc/shadow command shows a list of encrypted passwords
+- The bash command resets the bash shell, the source [file] command applies the commands written in the given file to the current bash session (?). Example of source: source ~/.bash_profile
