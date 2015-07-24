@@ -1,3 +1,9 @@
 - Arithmetics: User double parenthesis to enable arithmetics operations. Example: count=(($count+2))
 - While loop syntax: while [ condition ] do ... done
 - If statement syntax: if [ condition ] ; then ... else ... fi
+- Writing commands that can be fed into prompts: here commands. 
+    - Example: ftp -n 1.2.3.4<<myCmdFeed
+    -          quote USER joe
+    -          quote PASS 1234
+    -          ls
+    -          myCmdFeed //marks end of here command
