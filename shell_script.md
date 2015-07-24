@@ -1,3 +1,3 @@
 - Arithmeics: User double parenthesis to enable arithmetics operations. Example: count=(($count+2))
 - While loop syntax: while [ condition ] do ... done
-- If statument syntax: if [ condition ] ; then ... else ... fi
+- If statement syntax: if [ condition ] ; then ... else ... fi
