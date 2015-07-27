@@ -1,2 +1,2 @@
 - How to comment out blocks of code: substitute the line head symbol '^' with the commend symbol '#' (s/^/#/g). Uncomment by substituting '^#' with '^'.
-- 
+- The asterisk: Pressing * over a word/ will jump to the next closest matching instance of the word/pattern within the document
