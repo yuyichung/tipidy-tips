@@ -1,0 +1,1 @@
+- Resizing virtual hard drives: http://stackoverflow.com/questions/11659005/how-to-resize-a-virtualbox-vmdk-file
