@@ -1,0 +1,1 @@
+- Gitolite: A Redmine plugin used to manage RSA keys
