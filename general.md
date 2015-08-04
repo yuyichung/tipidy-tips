@@ -5,3 +5,4 @@
 - The /etc/passwd command lists all users registered in the system, the /etc/shadow command shows a list of encrypted passwords
 - The bash command resets the bash shell, the source [file] command applies the commands written in the given file to the current bash session (?). Example of source: source ~/.bash_profile
 - Get all current environment variables: printenv
+- Installing glassfish on Linux: http://linuxdrops.com/install-glassfish-with-jdk-7-on-centos-rhel-fedora-debian-ubuntu/
