@@ -6,3 +6,4 @@
 - The bash command resets the bash shell, the source [file] command applies the commands written in the given file to the current bash session (?). Example of source: source ~/.bash_profile
 - Get all current environment variables: printenv
 - Installing glassfish on Linux: http://linuxdrops.com/install-glassfish-with-jdk-7-on-centos-rhel-fedora-debian-ubuntu/
+- Adding desktop shortcuts: Create a .desktop file under /usr/share/applications
