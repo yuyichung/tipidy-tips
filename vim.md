@@ -2,3 +2,4 @@
 - The asterisk: Pressing * over a word/ will jump to the next closest matching instance of the word/pattern within the document
 - ctrl+x enables x-mode
 - Vim configurations are found in the vimrc file
+- To set number of columns spaced by Tab in linux, use "set tabstop=N" instead of "set shiftwidth=N"
