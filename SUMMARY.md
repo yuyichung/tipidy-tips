@@ -7,7 +7,7 @@
        * [File IO](file_io.md)
        * [General](general.md)
        * [Shell Script](shell_script.md)
-       * SSH
+       * [SSH](ssh.md)
    * [VirtualBox](virtualbox.md)
    * [Git](git.md)
 
