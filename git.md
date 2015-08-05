@@ -1,1 +1,2 @@
 - Gitolite: A Redmine plugin used to manage RSA keys
+- Multiple keys per user for Gitolite: http://gitolite.com/gitolite/gitolite.html#multi-key
