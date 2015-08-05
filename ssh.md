@@ -4,7 +4,7 @@
     Host <name of shortcut>
         Hostname <ip or domain name of host>
         Port <port to which you wish to connect>
-        Username <user name you will use to connect>
+        User <user name you will use to connect>
         IdentityFile <path to public key you registered with the host>
     For other options, see http://www.cyberciti.biz/faq/create-ssh-config-file-on-linux-unix/
 
