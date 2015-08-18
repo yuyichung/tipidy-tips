@@ -10,4 +10,5 @@
        * [SSH](ssh.md)
    * [VirtualBox](virtualbox.md)
    * [Git](git.md)
+   * Python
 
