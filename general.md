@@ -1,4 +1,5 @@
 - The history command allows you to browse a list of commands made by a user
+- To show timestamp of commands printed by the history command, you need to set global variable HISTTIMEFORMAT="%y%m%d %T " or whichever format you prefer
 - The useradd command creates a new user, but the -p command accepts encrypted passwords only
 - The userdel command deletes a user
 - The passwd command sets a new password for a user
