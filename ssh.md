@@ -7,5 +7,4 @@
         User <user name you will use to connect>
         IdentityFile <path to private key that pairs with the public key you registered with the host>
     For other options, see http://www.cyberciti.biz/faq/create-ssh-config-file-on-linux-unix/
-
-    
+- SSH Tunneling: Sometimes, you may need to gain access to a machine that is only accessible through another machine . If you have SSH access rights to the intermediate machine, you can try to establish an SSH tunnel between you and the target machine. The command is: ssh user@<host of intermediate machine>
