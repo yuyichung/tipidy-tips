@@ -7,3 +7,4 @@
     -          quote PASS 1234
     -          ls
     -          myCmdFeed //marks end of here command
+- bash command substitution: you can use the result of a command as input in bash scripts by using the following syntax: < <(command) (http://unix.stackexchange.com/questions/52026/bash-how-to-read-one-line-at-a-time-from-output-of-a-command)
