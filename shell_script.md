@@ -8,3 +8,7 @@
     -          ls
     -          myCmdFeed //marks end of here command
 - bash command substitution: you can use the result of a command as input in bash scripts by using the following syntax: < <(command) (http://unix.stackexchange.com/questions/52026/bash-how-to-read-one-line-at-a-time-from-output-of-a-command)
+- Reading line by line: you can use the following format: 
+    while read line; do
+        xxxx (use "$line" to access the current line)
+    done
