@@ -12,3 +12,4 @@
     while read line; do
         xxxx (use "$line" to access the current line)
     done
+- Shift: you can use the shift command to enable options while running your script, for details see http://linuxcommand.org/wss0130.php
