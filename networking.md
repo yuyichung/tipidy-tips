@@ -1,0 +1,3 @@
+- Set IP address for a network interface: ifconfig <interface name> <ip address>/<netmask> up (e.g. ifconfig eth0 11.22.33.44/20 up)
+- route: Displays and allows users to manipulate system's network routing
+- iptables: Manipulates access filters for the system (e.g. firewall config)
