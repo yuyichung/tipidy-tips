@@ -10,3 +10,4 @@
 - Adding desktop shortcuts: Create a .desktop file under /usr/share/applications
 - Finding the installed path of a shell command: which <command>
 - Grepping a compressed file: zgrep
+- If you need to execute a loop/conditional chunk of command and don't want to write a .sh file for it, you can simply separate the lines by using enter and semicolons (?)
