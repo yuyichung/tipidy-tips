@@ -11,3 +11,4 @@
 - Finding the installed path of a shell command: which <command>
 - Grepping a compressed file: zgrep
 - If you need to execute a loop/conditional chunk of command and don't want to write a .sh file for it, you can simply separate the lines by using enter and semicolons (?)
+- The "time" command can measure the response time of any command that follows it, e.g. "time grep "Hello world!" .*"
