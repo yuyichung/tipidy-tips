@@ -12,4 +12,5 @@
    * [VirtualBox](virtualbox.md)
    * [Git](git.md)
    * [Python](python.md)
+   * Oracle DB
 
