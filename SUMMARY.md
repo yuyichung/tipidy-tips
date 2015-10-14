@@ -13,4 +13,5 @@
    * [Git](git.md)
    * [Python](python.md)
    * [Oracle DB](oracle_db.md)
+   * VMWare
 
