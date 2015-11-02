@@ -1,1 +1,2 @@
 - The dd command allows you to easily create test files with file sizes of your choice. 
+- The tee command allows you to print output to screen while also writing it to a file
