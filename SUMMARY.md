@@ -15,5 +15,5 @@
    * [Oracle DB](oracle_db.md)
    * [VMWare](vmware.md)
    * [Windows](windows.md)
-       * FTP
+       * [FTP](ftp.md)
 
