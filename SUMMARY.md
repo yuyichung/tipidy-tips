@@ -14,4 +14,5 @@
    * [Python](python.md)
    * [Oracle DB](oracle_db.md)
    * [VMWare](vmware.md)
+   * Windows
 
