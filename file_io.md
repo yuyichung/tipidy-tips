@@ -8,3 +8,4 @@
     5. Format disk using the partition type of your choice: mkfs.ext4 /dev/sdc
     6. Obtain the UUID of the new partition: blkid
     7. Add new partition to /etc/fstab
+    8. Mount new partition
