@@ -13,3 +13,4 @@
 - If you need to execute a loop/conditional chunk of command and don't want to write a .sh file for it, you can simply separate the lines by using enter and semicolons (?)
 - The "time" command can measure the response time of any command that follows it, e.g. "time grep "Hello world!" .*"
 - You can re-execute commands seen from the "history" command by executing "!{command ID}"
+- .bash_profile is only loaded when you login via interactive mode, therefore it won't be sourced if you login via GUI or su
