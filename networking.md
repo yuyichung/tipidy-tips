@@ -3,3 +3,5 @@
 - iptables: Manipulates access filters for the system (e.g. firewall config)
 - named: Domain Name Server for Linux
 - tcpdump: Very useful packet listener, see http://www.slashroot.in/packet-capturing-tcpdump-command-linux for details)
+- Adding a gateway for a specific subnet: route add -net 172.18.0.0 netmask 255.255.0.0 gw 172.18.58.129
+- Adding a default gateway: route add default gw 172.18.58.129 eth0
