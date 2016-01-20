@@ -9,7 +9,7 @@
        * [Shell Script](shell_script.md)
        * [SSH](ssh.md)
        * [Networking](networking.md)
-       * Text Processing
+       * [Text Processing](text_processing.md)
    * [VirtualBox](virtualbox.md)
    * [Git](git.md)
    * [Python](python.md)
