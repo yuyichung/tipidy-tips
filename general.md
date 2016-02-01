@@ -1,17 +1,18 @@
-- The history command allows you to browse a list of commands made by a user
-- To show timestamp of commands printed by the history command, you need to set global variable HISTTIMEFORMAT="%y%m%d %T " or whichever format you prefer
-- The useradd command creates a new user, but the -p command accepts encrypted passwords only
-- The userdel command deletes a user
-- The passwd command sets a new password for a user
-- The /etc/passwd command lists all users registered in the system, the /etc/shadow command shows a list of encrypted passwords
-- The bash command resets the bash shell, the source [file] command applies the commands written in the given file to the current bash session (?). Example of source: source ~/.bash_profile
-- Get all current environment variables: printenv
-- Installing glassfish on Linux: http://linuxdrops.com/install-glassfish-with-jdk-7-on-centos-rhel-fedora-debian-ubuntu/
-- Adding desktop shortcuts: Create a .desktop file under /usr/share/applications
-- Finding the installed path of a shell command: which <command>
-- Grepping a compressed file: zgrep
-- If you need to execute a loop/conditional chunk of command and don't want to write a .sh file for it, you can simply separate the lines by using enter and semicolons (?)
-- The "time" command can measure the response time of any command that follows it, e.g. "time grep "Hello world!" .*"
-- You can re-execute commands seen from the "history" command by executing "!{command ID}"
+- The **history** command allows you to browse a list of commands made by a user
+- To **show timestamp** of commands printed by the history command, you need to set global variable HISTTIMEFORMAT="%y%m%d %T " or whichever format you prefer
+- The **useradd** command creates a new user, but the -p command accepts encrypted passwords only
+- The **userdel** command deletes a user
+- The **passwd** command sets a new password for a user
+- The **/etc/passwd** command lists all users registered in the system, the **/etc/shadow** command shows a list of encrypted passwords
+- The **bash** command resets the bash shell, the **source** [file] command applies the commands written in the given file to the current bash session (?). Example of source: source ~/.bash_profile
+- Get all current environment variables: **printenv**
+- Installing **glassfish** on Linux: http://linuxdrops.com/install-glassfish-with-jdk-7-on-centos-rhel-fedora-debian-ubuntu/
+-** Adding desktop shortcuts**: Create a .desktop file under /usr/share/applications
+- Finding the installed path of a shell command: **which** <command>
+- Grepping a compressed file: **zgrep**
+- If you need to **execute a loop/conditional chunk of command** and don't want to write a .sh file for it, you can simply separate the lines by using enter and semicolons (?)
+- The "**time**" command can measure the response time of any command that follows it, e.g. "time grep "Hello world!" .*"
+- You can re-execute commands seen from the "history" command by executing "**!{command ID}**"
 - .bash_profile is only loaded when you login via interactive mode, therefore it won't be sourced if you login via GUI or su
 - If you need to grep a text file that is interpreted as a binary file, use "grep -a" (works with zgrep also)
+- **sar**: System activity report, useful system statistics tool
