@@ -14,5 +14,4 @@
 - The "**time**" command can measure the response time of any command that follows it, e.g. "time grep "Hello world!" .*"
 - You can re-execute commands seen from the "history" command by executing "**!{command ID}**"
 - .bash_profile is only loaded when you login via interactive mode, therefore it won't be sourced if you login via GUI or su
-- If you need to grep a text file that is interpreted as a binary file, use "grep -a" (works with zgrep also)
 - **sar**: System activity report, useful system statistics tool
