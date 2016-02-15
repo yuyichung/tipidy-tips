@@ -10,3 +10,4 @@
     3. SET VERIFY OFF
     4. SET TRIMSPOOL ON
     5. SPOOL {name of output file}
+    Final output will have no column name, no extra messages, just plain data
