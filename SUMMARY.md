@@ -10,6 +10,7 @@
        * [SSH](ssh.md)
        * [Networking](networking.md)
        * [Text Processing](text_processing.md)
+       * Java
    * [VirtualBox](virtualbox.md)
    * [Git](git.md)
    * [Python](python.md)
