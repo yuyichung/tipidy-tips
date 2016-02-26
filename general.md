@@ -15,3 +15,4 @@
 - You can re-execute commands seen from the "history" command by executing "**!{command ID}**"
 - .bash_profile is only loaded when you login via interactive mode, therefore it won't be sourced if you login via GUI or su
 - **sar**: System activity report, useful system statistics tool
+- To bypass password prompt for certain users while executing sudo, check **sudoers** (open by executing **visudo** as root)
