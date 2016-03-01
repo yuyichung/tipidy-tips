@@ -5,4 +5,4 @@
 - tcpdump: Very useful packet listener, see http://www.slashroot.in/packet-capturing-tcpdump-command-linux for details)
 - Adding a gateway for a specific subnet: route add -net 172.18.0.0 netmask 255.255.0.0 gw 172.18.58.129
 - Adding a default gateway: route add default gw 172.18.58.129 eth0
-- Testing access privilege to a host/port combination: cat < /dev/tcp|udp/{host IP}/{port number}
+- Testing access privilege to a host/port combination: nc {host} {port}; echo $? -> success=0, failed=1
