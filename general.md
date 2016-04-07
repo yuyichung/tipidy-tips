@@ -7,8 +7,8 @@
 - The **/etc/passwd** command lists all users registered in the system, the **/etc/shadow** command shows a list of encrypted passwords
 - The **bash** command resets the bash shell, the **source** [file] command applies the commands written in the given file to the current bash session (?). Example of source: source ~/.bash_profile
 - Get all current environment variables: **printenv**
-- Installing **glassfish** on Linux: http://linuxdrops.com/install-glassfish-with-jdk-7-on-centos-rhel-fedora-debian-ubuntu/
--** Adding desktop shortcuts**: Create a .desktop file under /usr/share/applications
+- Installing **glassfish** on Linux:[](http://linuxdrops.com/install-glassfish-with-jdk-7-on-centos-rhel-fedora-debian-ubuntu/)
+- ** Adding desktop shortcuts**: Create a .desktop file under /usr/share/applications
 - Finding the installed path of a shell command: **which** <command>
 - Grepping a compressed file: **zgrep**
 - If you need to **execute a loop/conditional chunk of command** and don't want to write a .sh file for it, you can simply separate the lines by using enter and semicolons (?)
