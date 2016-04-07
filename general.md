@@ -14,8 +14,9 @@
 - If you need to **execute a loop/conditional chunk of command** and don't want to write a .sh file for it, you can simply separate the lines by using enter and semicolons (?)
 - The "**time**" command can measure the response time of any command that follows it, e.g. "time grep "Hello world!" .*"
 - You can re-execute commands seen from the "history" command by executing "**!{command ID}**"
-- .bash_profile is only loaded when you login via interactive mode, therefore it won't be sourced if you login via GUI or su
+- **.bash_profile** is only loaded when you login via interactive mode, therefore it won't be sourced if you login via GUI or su
 - **sar**: System activity report, useful system statistics tool
 - To bypass password prompt for certain users while executing sudo, check **sudoers** (open by executing **visudo** as root)
 - Get static top: top -b -n 1
 - **Get PID** of a command/script: **echo $$**
+- **/var/run** and **/var/lock** store process PIDs and locks respectively
