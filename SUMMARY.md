@@ -19,5 +19,5 @@
    * [VMWare](vmware.md)
    * [Windows](windows.md)
        * [Networking](ftp.md)
-   * Miscellaneous
+   * [Miscellaneous](miscellaneous.md)
 
