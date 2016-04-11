@@ -20,5 +20,5 @@
    * [Windows](windows.md)
        * [Networking](ftp.md)
    * [Miscellaneous](miscellaneous.md)
-       * Veritas
+       * [Veritas](veritas.md)
 
