@@ -19,3 +19,4 @@
 - Get static top: top -b -n 1
 - **Get PID** of a command/script: **echo $$**
 - **/var/run** and **/var/lock** store process PIDs and locks respectively
+- **Encryption**: **openssl** can encode strings, useful for when you want to hide your password
