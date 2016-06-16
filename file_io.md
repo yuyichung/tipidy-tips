@@ -9,3 +9,4 @@
     6. Obtain the UUID of the new partition: blkid
     7. Add new partition to /etc/fstab
     8. Mount new partition
+- Check mounts points on a NAS: showmount -e {NAS IP}
