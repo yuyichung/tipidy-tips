@@ -22,5 +22,5 @@
    * [Miscellaneous](miscellaneous.md)
        * [Veritas](veritas.md)
        * [Glassfish](glassfish.md)
-   * Ubuntu
+   * [Ubuntu](ubuntu.md)
 
