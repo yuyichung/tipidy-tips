@@ -22,5 +22,6 @@
    * [Miscellaneous](miscellaneous.md)
        * [Veritas](veritas.md)
        * [Glassfish](glassfish.md)
+       * JBoss
    * [Ubuntu](ubuntu.md)
 
