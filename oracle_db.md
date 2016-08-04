@@ -11,3 +11,4 @@
     4. SET TRIMSPOOL ON
     5. SPOOL {name of output file}
     Final output will have no column name, no extra messages, just plain data
+- dgmgrl: Used for DataGuard architecture. If the dgmgrl service is not running on the databases or the observer, there may be split brain
