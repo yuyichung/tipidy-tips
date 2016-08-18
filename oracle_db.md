@@ -13,3 +13,4 @@
     Final output will have no column name, no extra messages, just plain data
 - dgmgrl: Used for DataGuard architecture. If the dgmgrl service is not running on the databases or the observer, there may be split brain
 - Placeholders in .sql files: &{param number}. e.g. select * from table where id = &1; >> sample.sql , sqlplus user/pass@database @sample.sql 1001 >> sample.sh
+- Oracle Enterprise Management: https://{ip}:1158/em
