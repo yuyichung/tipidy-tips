@@ -21,3 +21,4 @@
 - **/var/run** and **/var/lock** store process PIDs and locks respectively
 - **Encryption**: **openssl** can encode strings, useful for when you want to hide your password
 - **lsb_release**: Displays the Linux distribution version of your system
+- **/etc/*release**: cat this file for Linux brand 
