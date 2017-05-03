@@ -6,3 +6,4 @@
 - Adding a gateway for a specific subnet: route add -net 172.18.0.0 netmask 255.255.0.0 gw 172.18.58.129
 - Adding a default gateway: route add default gw 172.18.58.129 eth0
 - Testing access privilege to a host/port combination: nc {host} {port}; echo $? -> success=0, failed=1
+- Add a static route to RHEL: vim /etc/sysconfig/network-script/static-routes, syntax "any net 172.17.230.0/24 bond2" (https://serverfault.com/questions/576192/trying-to-understand-the-correct-way-to-create-a-static-route-in-centos-please)
