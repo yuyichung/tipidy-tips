@@ -14,6 +14,7 @@
 * dgmgrl: Used for DataGuard architecture. If the dgmgrl service is not running on the databases or the observer, there may be split brain
 * Placeholders in .sql files: &{param number}. e.g. select \* from table where id = &1; &gt;&gt; sample.sql , sqlplus user/pass@database @sample.sql 1001 &gt;&gt; sample.sh
 * Oracle Enterprise Management: [https://{ip}:1158/em](https://{ip}:1158/em)
+* How to determine Oracle OS group roles: **grep “define SS\_” $ORACLE\_HOME/rdbms/lib/config.c**
 * Oracle 11.1.0.6 installation in silent mode:
   * Create group oinstall
   * Create user oracle, add oracle to group oinstall
