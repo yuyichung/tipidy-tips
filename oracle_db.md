@@ -20,6 +20,9 @@
   * Create file /etc/oraInst.loc with the following content:
     * inventory_loc=/ORACLE_\_HOME/oraInventory
       inst\_group=oinstall
+  * Locate the downloaded files for installation, find the /database folder
+  * Copy or edit one of the .response files in /database/response/ depending on the edition to install
+  * 
 
 
 
