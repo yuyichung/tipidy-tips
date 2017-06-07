@@ -26,6 +26,8 @@
   * Locate the downloaded files for installation, find the /database folder
   * Copy or edit one of the .response files in /database/response/ depending on the edition to install
   * Execute ./database/runInstaller -silent -responseFile "_path to response file_"
+  * https://hugepang.wordpress.com/2011/06/21/oracle-11gr2-silent-installation/
+  * 
 
 
 
