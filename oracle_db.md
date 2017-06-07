@@ -18,8 +18,10 @@
   * Create group oinstall
   * Create user oracle, add oracle to group oinstall
   * Create file /etc/oraInst.loc with the following content:
-    * inventory_loc=/ORACLE_\_HOME/oraInventory
+    * inventory_loc=/desired\_path_/oraInventory
       inst\_group=oinstall
+  * Create directory /_desired\_path_/oraInventory, chown oracle:oinstall /_desired\_path/_oraInventory
+  * Create the $ORACLE\_HOME directory and chown oracle:oinstall
   * Locate the downloaded files for installation, find the /database folder
   * Copy or edit one of the .response files in /database/response/ depending on the edition to install
   * 
