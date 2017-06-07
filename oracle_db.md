@@ -18,6 +18,8 @@
   * Create group oinstall
   * Create user oracle, add oracle to group oinstall
   * Create file /etc/oraInst.loc with the following content:
+    * inventory_loc=/ORACLE_\_HOME/oraInventory
+      inst\_group=oinstall
     * 
 
 
