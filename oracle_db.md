@@ -20,7 +20,6 @@
   * Create file /etc/oraInst.loc with the following content:
     * inventory_loc=/ORACLE_\_HOME/oraInventory
       inst\_group=oinstall
-    * 
 
 
 
