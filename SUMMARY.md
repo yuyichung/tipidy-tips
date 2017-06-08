@@ -12,6 +12,7 @@
     * [Text Processing](text_processing.md)
     * [Java](java.md)
     * [Others](others.md)
+    * [SUSE](suse.md)
   * [VirtualBox](virtualbox.md)
   * [Git](git.md)
   * [Python](python.md)
