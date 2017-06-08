@@ -26,7 +26,8 @@
   * Locate the downloaded files for installation, find the /database folder
   * Copy or edit one of the .response files in /database/response/ depending on the edition to install
   * Execute ./database/runInstaller -silent -responseFile "_path to response file_"
-  * https://hugepang.wordpress.com/2011/06/21/oracle-11gr2-silent-installation/
+  * If there are numberFormatExceptions during the check phase, consider editing the /etc/sysctl.conf and add this line: kernel.shmmax=4294967295 \(https://pitss.com/us/2013/11/04/forms-installer-prerequisite-check-fails-2/\)
+  * [https://hugepang.wordpress.com/2011/06/21/oracle-11gr2-silent-installation/](https://hugepang.wordpress.com/2011/06/21/oracle-11gr2-silent-installation/)
   * 
 
 
