@@ -13,6 +13,7 @@
     * [Java](java.md)
     * [Others](others.md)
     * [SUSE](suse.md)
+    * [MacOS](macos.md)
   * [VirtualBox](virtualbox.md)
   * [Git](git.md)
   * [Python](python.md)
